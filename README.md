@@ -1,9 +1,7 @@
 
 
 ### <div align="center">Hey! I'm Sushank Mandal</div>  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+----  
   
 
 ### <div align="center">Software Engineer 👨‍💻</div>  
@@ -96,7 +94,7 @@
 <br/>  
 
 
-
+## Tunes🎶  
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=z17c4kka8meml8x0qcqzoz297&cover_image=true&theme=default)  
 
 <br/>  
@@ -117,5 +115,4 @@
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
