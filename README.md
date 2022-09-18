@@ -7,13 +7,13 @@
 ### <div align="center">Software Engineer 👨‍💻</div>  
   
 
-<div align="center">🔭 I’m currently student at [Masai School](https://masaischool.com)  </div>
+<div align="center">🔭 I’m currently student at Masai School </div>
   
 
 <div align="center">🌱 I’m currently learning React and SpringBoot  </div>
   
 
-<div align="center">🔗 Contact and know about me 👉 [here](https://masaischool.com)  </div>
+<div align="center">🔗 Contact and know about me 👉 https://masaischool.com  </div>
   
 
   
@@ -92,12 +92,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&hide_border=true&layout=compact" align="center" />  </div> 
 
 <br/>  
-
-
-## <div align="center">Tunes🎶  </div>
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=z17c4kka8meml8x0qcqzoz297&cover_image=true&theme=default)  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sushank678&&style=flat-square" align="center" />
