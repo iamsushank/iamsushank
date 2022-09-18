@@ -1,6 +1,6 @@
 
 
-### Hey! I'm Sushank Mandal  
+### <div align="center">Hey! I'm Sushank Mandal</div>  
 <div align="center">
 <img src="" align="center" style="width: 100%" />
 </div>  
@@ -96,10 +96,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=z17c4kka8meml8x0qcqzoz297&cover_image=true&theme=default)  
 
