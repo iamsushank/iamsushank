@@ -13,7 +13,7 @@
 <div align="center">🌱 I’m currently learning React and SpringBoot  </div>
   
 
-<div align="center">🔗 Contact and know about me 👉 https://masaischool.com  </div>
+<div align="center">🔗 Contact and know about me 👉 https://sushank678.github.io  </div>
   
 
   
