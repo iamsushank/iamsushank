@@ -91,9 +91,11 @@
 
 <br/>
 
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+</div>
+  
+  
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&hide_border=true&layout=compact" align="center" />  </div> 
 
