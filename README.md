@@ -101,7 +101,7 @@
 
  <br/> 
   
-[![Sushank's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=github)](https://github.com/sushank678/github-readme-activity-graph)
+[![Sushank's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushank678&theme=github)](https://github.com/sushank678/github-readme-activity-graph)
 
 
 <br/>  
