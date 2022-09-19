@@ -93,6 +93,11 @@
 
 <br/>  
  
+ 
+ [![Sushank's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushank678&theme=github)](https://github.com/sushank678/github-readme-activity-graph)
+
+
+<br/> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sushank678&&style=flat-square" align="center" />
@@ -101,10 +106,7 @@
 
  <br/> 
   
-[![Sushank's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushank678&theme=github)](https://github.com/sushank678/github-readme-activity-graph)
-
-
-<br/>  
+ 
 
 <div align="center">
             <a href="https://www.buymeacoffee.com/iamsushank" target="_blank" style="display: inline-block;">
