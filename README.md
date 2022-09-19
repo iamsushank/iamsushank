@@ -13,11 +13,11 @@
 
 - 🔭 I’m currently student at Masai School 
   
-
-- 🌱 I’m currently learning React and SpringBoot  
+- 🌱 I’m currently learning React and SpringBoot 
+- ✨ Interest in Data Structures and Algorithms & backend and frontend development 
   
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sushank678.github.io)**
-
+- 🍂 Speak English, Hindi, Bengali and Khorta
 - 🔗 Contact and know about me 👉 **[LinkedIn](https://www.linkedin.com/in/iamsushank/)**
   
 
@@ -92,22 +92,17 @@
 
 
 ## <div align="">Github Stats </div> 
-<img src="https://github-readme-stats.vercel.app/api?username=sushank678&show_icons=true&count_private=true&hide_border=true" align="center" />  
-
+< 
+<a href="https://github.com/sushank678/github-readme-stats"><img alt="Sushank Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushank678&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
   
   
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&hide_border=true&layout=compact" align="center" />  
-
+<a href="https://github.com/sushank678/github-readme-stats"><img alt="Sushank Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>  
  
  
- [![Sushank's github activity graph](https://activity-graph.herokuapp.com/graph?username=sushank678&theme=github)](https://github.com/sushank678/github-readme-activity-graph)
+<a href="https://github.com/sushank678/github-readme-activity-graph"><img alt="Sushank mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sushank678&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <br/> 
