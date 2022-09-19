@@ -1,19 +1,19 @@
 
 
-### <div align="center">Hey! I'm Sushank Mandal</div>  
+### Hey! I'm Sushank Mandal 
 ----  
   
 
-### <div align="center">Software Engineer 👨‍💻</div>  
+### <div align="">Software Engineer 👨‍💻</div>  
   
 
-<div align="center">🔭 I’m currently student at Masai School </div>
+🔭 I’m currently student at Masai School 
   
 
-<div align="center">🌱 I’m currently learning React and SpringBoot  </div>
+🌱 I’m currently learning React and SpringBoot  
   
 
-<div align="center">🔗 Contact and know about me 👉 https://sushank678.github.io  </div>
+🔗 Contact and know about me 👉 https://sushank678.github.io  
   
 
   
@@ -22,8 +22,8 @@
 <br/>  
 
 
-## <div align="center">My Skill Set  </div>
-<div align="center"><table><tr><td valign="top" width="33%">
+## My Skill Set  
+<div align=""><table><tr><td valign="top" width="33%">
 
 
 
@@ -63,8 +63,8 @@
 <br/>  
 
 
-## <div align="center">Connect with me  </div>
-<div align="center">
+## >Connect with me 
+<div align="">
 <a href="https://github.com/sushank678" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -86,18 +86,18 @@
 <br/>  
 
 
-## <div align="center">Github Stats </div> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sushank678&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## <div align="">Github Stats </div> 
+<img src="https://github-readme-stats.vercel.app/api?username=sushank678&show_icons=true&count_private=true&hide_border=true" align="center" />  
 
 <br/>
 
-<div align="center">
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-</div>
+
   
   
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&hide_border=true&layout=compact" align="center" />  </div> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&hide_border=true&layout=compact" align="center" />  
 
 <br/>  
  
@@ -107,22 +107,22 @@
 
 <br/> 
 
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=sushank678&&style=flat-square" align="center" />
-</div>  
+ 
 
 
  <br/> 
   
  
 
-<div align="center">
+
             <a href="https://www.buymeacoffee.com/iamsushank" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a>
 <br />
 
 
