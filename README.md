@@ -88,6 +88,12 @@
 
 ## <div align="center">Github Stats </div> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sushank678&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <br/>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&hide_border=true&layout=compact" align="center" />  </div> 
 
