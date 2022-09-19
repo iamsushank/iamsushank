@@ -18,7 +18,7 @@
   
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sushank678.github.io)**
 
-- 🔗 Contact and know about me 👉 **[LinkedIn](https://linkedin.com/iamsushank.com)**
+- 🔗 Contact and know about me 👉 **[LinkedIn](https://www.linkedin.com/in/iamsushank/)**
   
 
   
