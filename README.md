@@ -63,7 +63,7 @@
 <br/>  
 
 
-## >Connect with me 
+## Connect with me 
 <div align="">
 <a href="https://github.com/sushank678" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -116,13 +116,14 @@
   
  
 
-
+          <div>
             <a href="https://www.buymeacoffee.com/iamsushank" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
             </a>
+          </div>
 <br />
 
 
