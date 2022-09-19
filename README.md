@@ -1,19 +1,24 @@
 
 
-### Hey! I'm Sushank Mandal 
-----  
- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
 
-### <div align="">Software Engineer 👨‍💻</div>  
+ 
+ <a href="#" ><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> 
+ 
+ ### <div align="center">Hey! I'm Sushank Mandal </div>  
+
+---- 
+
+### <div align="center">Aspiring Java Backend Developer 👨‍💻</div>  
   
 
-🔭 I’m currently student at Masai School 
+- 🔭 I’m currently student at Masai School 
   
 
-🌱 I’m currently learning React and SpringBoot  
+- 🌱 I’m currently learning React and SpringBoot  
   
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://sushank678.github.io)**
 
-🔗 Contact and know about me 👉 https://sushank678.github.io  
+- 🔗 Contact and know about me 👉 **[LinkedIn](https://linkedin.com/iamsushank.com)**
   
 
   
