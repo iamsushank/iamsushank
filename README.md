@@ -87,7 +87,7 @@
 </a>  
  
  <a href="https://sushank678.github.io" target="_blank">
-<img src=https://www.svgrepo.com/show/39138/portfolio.svg alt=portfolio style="margin-bottom: 5px; width: 20px; height: 20px;"/>
+<img src=https://www.svgrepo.com/show/39138/portfolio.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px; width: 20px; height: 20px;"/>
 </a>
 </div>  
   
