@@ -98,22 +98,22 @@
   
 <p align="">
     <a href="https://github.com/iamsushank/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushank Mandal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushank678&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushank Mandal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsushank&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
 <br/>
-<a href="https://github.com/iamsushank/github-readme-stats"><img alt="Sushank Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/iamsushank/github-readme-stats"><img alt="Sushank Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsushank&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>  
  
  
-<a href="https://github.com/iamsushank/github-readme-activity-graph"><img alt="Sushank mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sushank678&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/iamsushank/github-readme-activity-graph"><img alt="Sushank mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamsushank&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
 <div align="center"  >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sushank678&column=7&theme=onedark"" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iamsushank&column=7&theme=onedark"" />
   </a>
 <div>
 
