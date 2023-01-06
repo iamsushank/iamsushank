@@ -107,23 +107,12 @@
 <br/>  
  
  
-<a href="https://github.com/iamsushank/github-readme-activity-graph"><img alt="Sushank mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamsushank&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 
 <div align="center"  >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=iamsushank&column=7&theme=onedark"" />
   </a>
 <div>
-
-
-
-<br/> 
-                                                                                                    
-<img src="https://komarev.com/ghpvc/?username=iamsushank&&style=flat-square" align="center" />
-
-
 
  <br/> 
 
