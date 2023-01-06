@@ -93,21 +93,21 @@
 
 ## <div align="">Github Stats </div> 
 
-<a href="https://github.com/sushank678/github-readme-stats"><img alt="Sushank Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sushank678&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/sushank678/github-readme-stats"><img alt="Sushank Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamsushank&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
   
 <p align="">
-    <a href="https://github.com/sushank678/github-readme-streak-stats">
+    <a href="https://github.com/iamsushank/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sushank Mandal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sushank678&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
   
 <br/>
-<a href="https://github.com/sushank678/github-readme-stats"><img alt="Sushank Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/iamsushank/github-readme-stats"><img alt="Sushank Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushank678&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>  
  
  
-<a href="https://github.com/sushank678/github-readme-activity-graph"><img alt="Sushank mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sushank678&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/iamsushank/github-readme-activity-graph"><img alt="Sushank mandal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sushank678&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -121,7 +121,7 @@
 
 <br/> 
                                                                                                     
-<img src="https://komarev.com/ghpvc/?username=sushank678&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=iamsushank&&style=flat-square" align="center" />
 
 
 
