@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning React and SpringBoot 
 - ✨ Interest in Data Structures and Algorithms & backend and frontend development 
   
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sushank678.github.io)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://iamsushank.github.io)**
 - 🍂 Speak English, Hindi, Bengali and Khorta
 - 🔗 Contact and know about me 👉 **[LinkedIn](https://www.linkedin.com/in/iamsushank/)**
   
